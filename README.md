@@ -87,6 +87,8 @@ stress --cpu 4
 
 Local VM → CPU Monitoring → Threshold Check → Trigger Script → GCP VM Creation → App Deployment
 
+<img width="1106" height="884" alt="image" src="https://github.com/user-attachments/assets/91dafb37-a511-4671-b99b-3c5d6212fdf9" />
+
 ---
 
 ##  Results
